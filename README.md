@@ -1,1 +1,9 @@
-# SNU_Algorithm_2021_2
+# Algorithms Assignments (SNU)
+
+Seoul National University
+
+Algorithms (prof. Moon), 2022 fall
+
+
+
+
